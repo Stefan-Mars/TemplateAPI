@@ -1,4 +1,4 @@
-# Template voor API in Laravel
+# Laravel template voor een CRUD API
 
 ## Installatie
 
